@@ -1,3 +1,7 @@
+# Preview 
+
+![preview](https://s6.gifyu.com/images/Untitled-Project.gif)
+
 # Web scraper for Github
 
 Web scraper automates Github sign in for you. Can be changed to fit other sites also.
